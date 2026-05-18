@@ -1,5 +1,4 @@
 # 🛡️ Cybersecurity & GRC Portfolio — Daphne Obadan
-
 **Cybersecurity & GRC | Compliance, Risk & Data | SCWIST Cybersecurity Scholar 2026**
 
 ---
@@ -18,10 +17,11 @@ This portfolio is built week by week as I develop practical cybersecurity and GR
 
 | Week | Project | Focus Area | Status |
 |------|---------|------------|--------|
-| Week 1 | CIA Triad Analysis: NASA Phishing Incident | Security Fundamentals | ✅ Complete |
-| Week 1 | Career Path Reflection: Where Do I Fit? | GRC & Policy | ✅ Complete |
-| Week 2 | Cyber Safety Checklist: Personal & Workplace | Security Awareness | ✅ Complete |
-| — | NIST CSF Gap Analysis | NIST CSF 2.0 | 🔄 In Progress |
+| Week 1 | [CIA Triad Analysis: NASA Phishing Incident](./Week-01) | Security Fundamentals | ✅ Complete |
+| Week 1 | [Career Path Reflection: Where Do I Fit?](./Week-01) | GRC & Policy | ✅ Complete |
+| Week 2 | [Cyber Safety Checklist: Personal & Workplace](./week-2) | Security Awareness | ✅ Complete |
+| Week 3 | [Threat Identification & Social Engineering in Practice](./week-3) | Threat Analysis & SOC Roles | ✅ Complete |
+| Week 4 | [BlinkSend: Framework Selection & Business Case](./week-4) | GRC, Compliance & Privacy Law | ✅ Complete |
 
 New projects added weekly as I progress through training.
 
@@ -29,13 +29,15 @@ New projects added weekly as I progress through training.
 
 ## 🔧 Skills & Tools
 
-**GRC Frameworks:** NIST CSF 2.0, ISO 27001 (foundational), PIPEDA awareness
+**GRC Frameworks:** NIST CSF 2.0 · ISO/IEC 27001 · PIPEDA · Law 25 (Quebec) · CyberSecure Canada
+
+**Risk & Compliance:** Framework selection · Business case writing · Privacy law alignment · Risk identification · Audit documentation
 
 **Data & Analysis:** SQL · Microsoft Excel · Google Sheets
 
 **Documentation:** Policy writing · Audit evidence preparation · Professional report writing · Markdown
 
-**Hands-on Practice:** TryHackMe · Cisco Introduction to Cybersecurity
+**Hands-on Practice:** Cisco Introduction to Cybersecurity · ICS2 Certified in Cybersecurity. TryHackMe
 
 ---
 
@@ -44,8 +46,8 @@ New projects added weekly as I progress through training.
 | Credential | Provider | Status |
 |------------|----------|--------|
 | Skills for Success Cybersecurity Program | SCWIST | 🔄 In Progress (Apr–Aug 2026) |
-| Introduction to Cybersecurity | Cisco | 🔄 In Progress |
-| Google Cybersecurity Certificate | Google | 🔜 Planned |
+| Introduction to Cybersecurity | Cisco | ✅ Complete |
+| ICS2 Certified in Cybersecurity | 🔄 In Progress |
 | CompTIA Security+ | CompTIA | 🔜 Planned |
 
 ---
@@ -55,6 +57,7 @@ New projects added weekly as I progress through training.
 **Industries:** Healthcare · Government Regulation · Telecommunications · Higher Education · Software Development
 
 **Relevant Experience:**
+
 - Compliance and data protection in NHS-regulated healthcare environment (Leeds Teaching Hospitals)
 - Regulatory audit support within a government environmental agency (LASEPA)
 - Policy and process management in large-scale telecoms operations (Teleperformance Canada, Sky UK)
@@ -66,7 +69,7 @@ New projects added weekly as I progress through training.
 
 - **LinkedIn:** [linkedin.com/in/daphne-obadan](https://www.linkedin.com/in/daphne-obadan)
 - **Location:** Toronto, Ontario, Canada
-- **Open to:** GRC Analyst · Compliance Analyst · SOC Analyst · IT Security Analyst · Junior Risk Analyst
+- **Open to:** GRC Analyst · Compliance Analyst · Privacy Analyst · IT Security Analyst · Junior Risk Analyst
 
 ---
 
