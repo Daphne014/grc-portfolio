@@ -2,8 +2,6 @@
 
 > Framework selection, privacy law alignment, and GRC thinking applied to a real-world business case.
 
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Framework](https://img.shields.io/badge/Framework-ISO%2FIEC%2027001-blue) ![Program](https://img.shields.io/badge/Program-SCWIST%20Cybersecurity%202026-purple) ![Role Target](https://img.shields.io/badge/Target%20Role-GRC%20Analyst-orange)
-
 ---
 
 ## Overview
