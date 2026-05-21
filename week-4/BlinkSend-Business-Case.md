@@ -27,7 +27,7 @@ The recommended approach is phased:
 
 **Primary framework: NIST CSF**
 
-NIST CSF organises security around five functions: Identify, Protect, Detect, Respond, Recover. It is structured enough to produce real security improvements without requiring a dedicated compliance hire. Its controls map directly onto PIPEDA safeguard obligations and FINTRAC's compliance program requirement.
+NIST CSF organises security around six functions: Govern, Identify, Protect, Detect, Respond, Recover. It is structured enough to produce real security improvements without requiring a dedicated compliance hire. Its controls map directly onto PIPEDA safeguard obligations and FINTRAC's compliance program requirement.
 
 ---
 
