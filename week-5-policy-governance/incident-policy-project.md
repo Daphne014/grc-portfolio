@@ -1,58 +1,64 @@
-# GRC Project: Incident Reporting Policy Review
+# Week 5 Homework: Policy Creation Exercise
 
-**Company:** Day 2 Day Communications (D2D) — small Canadian ISP, Ontario
-**Role:** GRC Analyst
-**Task:** Review an outdated Incident Reporting Policy, identify compliance gaps, produce an updated version mapped to Canadian regulatory requirements
-
----
-
-## Why This Project Matters
-
-Every GRC, Privacy, and Compliance Analyst will encounter this exact task: a policy exists, but no one has checked whether it still reflects the law. Outdated policies are a liability. They fail audits, expose organizations to regulatory penalties, and leave staff with no clear guidance when an incident hits.
+**Program:** SCWIST Cybersecurity Skills for Success — 2026 Cohort
+**Organization:** Day 2 Day Communications (D2D) — fictional small Canadian ISP, Ontario
+**Policy selected:** Incident Reporting Policy
+**Role simulated:** GRC Analyst
 
 ---
 
-## Gap Analysis
+## The Policy: D2D-SEC-001 Incident Reporting Policy
 
-Comparing the existing policy against current legal and regulatory requirements.
-
-| Gap Identified | Why It Matters |
-|---|---|
-| No PIPEDA breach reporting obligations | Canada's privacy law requires notifying the Privacy Commissioner and affected individuals when a breach poses serious risk of harm. Missing this means automatic non-compliance. |
-| No CRTC outage notification timelines | ISPs must report major outages to Canada's telecom regulator within 2 hours — especially if 9-1-1 services are affected. No timeline means no accountability. |
-| No breach recordkeeping requirement | PIPEDA requires organizations to retain records of all breaches for a minimum of 24 months, regardless of severity. |
-| No escalation structure | Without defined severity levels, teams have no standard for how fast to respond or who to notify. |
-| No emergency service impact criteria | No explicit coverage of incidents affecting 9-1-1, 9-8-8, TTY/IP Relay, or Wireless Public Alerting. |
-
----
-
-## Updated Policy: Key Sections
+### Purpose
+Day 2 Day Communications handles customer data and provides telecommunications infrastructure, including access to emergency services. This policy ensures that when a security incident or data breach occurs, the right people are notified, legal obligations are met, and the organization can demonstrate accountability.
 
 ### Scope
-All employees, contractors, and third-party vendors. Covers all incidents involving company systems, customer data, network outages, and emergency service impacts.
+This policy applies to all D2D employees, contractors, and third-party vendors who access company systems or customer data. It covers all security incidents including data breaches, service outages, unauthorized access, and any event affecting emergency services such as 9-1-1 or 9-8-8.
+
+### Expectations
+All D2D personnel are expected to:
+
+- Report any suspected incident within 1 hour of discovery — do not investigate or attempt to fix it independently
+- Use the Incident Report Form or contact the GRC/IT team directly
+- Provide honest, accurate information during any investigation
+- Keep all incident details confidential unless authorized to share
+- Complete incident reporting training on hire and annually thereafter
 
 ### Reporting Requirements
 
-**Internal**
-All suspected incidents reported within 1 hour of discovery using the Incident Report Form.
+**Internal reporting:** All suspected incidents must be reported within 1 hour of discovery, including what happened, when it was noticed, which systems or data may be affected, and any steps already taken.
 
-**PIPEDA Obligations**
-- Notify the Privacy Commissioner (OPC) if the breach poses real risk of significant harm
+**PIPEDA obligations (Canada's federal privacy law):**
+- Notify the Privacy Commissioner (OPC) if the breach could cause serious harm to individuals — such as identity theft, financial loss, or physical danger
 - Contact affected individuals directly and promptly
-- Retain records of every breach — including minor ones — for at least 24 months
+- Retain records of every breach, including minor ones, for a minimum of 24 months
 
-**CRTC Obligations**
-- Notify the CRTC within 2 hours of discovering a major outage
+**CRTC obligations (Canada's telecom regulator):**
+- Report major service outages to the CRTC within 2 hours of discovery
 - Submit a full post-outage report within 30 days of service restoration
-- Any incident affecting emergency services is automatically Priority 1
+- Any incident affecting 9-1-1 or emergency services is automatically Priority 1
 
-### Escalation Tiers
+**Escalation tiers:**
 
 | Level | Incident Type | Response Target |
 |---|---|---|
 | P1 – Critical | Ransomware, confirmed data breach, 9-1-1 outage | Escalate within 15 minutes |
 | P2 – High | Suspected unauthorized access, major service outage | Escalate within 1 hour |
 | P3 – Medium | Minor system anomaly, phishing attempt (no data accessed) | Report within 4 hours |
+
+---
+
+## GRC Analyst Work: Gap Analysis
+
+Before writing the updated policy, I compared the existing document against current legal and regulatory requirements. Here is what was missing.
+
+| Gap Identified | Why It Matters |
+|---|---|
+| No PIPEDA breach reporting obligations | Canada's privacy law requires notifying the Privacy Commissioner and affected individuals when a breach poses serious risk of harm. Missing this means automatic non-compliance. |
+| No CRTC outage notification timelines | ISPs must report major outages within 2 hours, especially if 9-1-1 services are affected. No timeline means no accountability. |
+| No breach recordkeeping requirement | PIPEDA requires organizations to retain records of all breaches for a minimum of 24 months, regardless of severity. |
+| No escalation structure | Without defined severity levels, teams have no standard for how fast to respond or who to notify. |
+| No emergency service impact criteria | No explicit coverage of incidents affecting 9-1-1, 9-8-8, TTY/IP Relay, or Wireless Public Alerting. |
 
 ---
 
