@@ -22,6 +22,8 @@ This portfolio is built week by week as I develop practical cybersecurity and GR
 | Week 2 | [Cyber Safety Checklist: Personal & Workplace](./week-2) | Security Awareness | ✅ Complete |
 | Week 3 | [Threat Identification & Social Engineering in Practice](./week-3) | Threat Analysis & SOC Roles | ✅ Complete |
 | Week 4 | [BlinkSend: Framework Selection & Business Case](./week-4) | GRC, Compliance & Privacy Law | ✅ Complete |
+| Week 5 | [Policy & Governance: Core Concepts](./week-5-policy-governance/notes.md) | Policy, Procedures & Technical Controls | ✅ Complete |
+| Week 5 | [GRC Project: Incident Reporting Policy Review](./week-5-policy-governance/incident-policy-project.md) | GRC, Compliance & Canadian Privacy Law | ✅ Complete |
 
 New projects added weekly as I progress through training.
 
