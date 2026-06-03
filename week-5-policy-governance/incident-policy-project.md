@@ -5,82 +5,80 @@
 **Policy selected:** Incident Reporting Policy
 **Role simulated:** GRC Analyst
 
+> **Instructor feedback incorporated:** Policy language tightened to remove procedure-level detail. CRTC notification updated to reflect triage-first approach. Referenced supporting documents flagged.
+
 ---
 
 ## The Policy: D2D-SEC-001 Incident Reporting Policy
 
 ### Purpose
-Day 2 Day Communications handles customer data and provides telecommunications infrastructure, including access to emergency services. This policy ensures that when a security incident or data breach occurs, the right people are notified, legal obligations are met, and the organization can demonstrate accountability.
+This policy ensures that when a security incident or data breach occurs at D2D, the right people are notified, legal obligations are met, and the organization can demonstrate accountability.
 
 ### Scope
-This policy applies to all D2D employees, contractors, and third-party vendors who access company systems or customer data. It covers all security incidents including data breaches, service outages, unauthorized access, and any event affecting emergency services such as 9-1-1 or 9-8-8.
+All employees, contractors, and third-party vendors. Covers data breaches, service outages, unauthorized access, and any event affecting emergency services such as 9-1-1 or 9-8-8.
 
 ### Expectations
-All D2D personnel are expected to:
-
-- Report any suspected incident within 1 hour of discovery — do not investigate or attempt to fix it independently
-- Use the Incident Report Form or contact the GRC/IT team directly
-- Provide honest, accurate information during any investigation
-- Keep all incident details confidential unless authorized to share
+- Report any suspected incident promptly — do not investigate or resolve it independently
+- Cooperate honestly with the GRC/IT team during any investigation
+- Keep all incident details confidential
 - Complete incident reporting training on hire and annually thereafter
 
 ### Reporting Requirements
 
-**Internal reporting:** All suspected incidents must be reported within 1 hour of discovery, including what happened, when it was noticed, which systems or data may be affected, and any steps already taken.
+**Internal:** Report to the GRC/IT team as soon as an incident is identified, with enough detail to assess severity and next steps.
 
-**PIPEDA obligations (Canada's federal privacy law):**
-- Notify the Privacy Commissioner (OPC) if the breach could cause serious harm to individuals — such as identity theft, financial loss, or physical danger
+**PIPEDA (Canada's federal privacy law):**
+- Notify Canada's Privacy Commissioner if a confirmed breach poses real risk of serious harm such as identity theft or financial loss
 - Contact affected individuals directly and promptly
-- Retain records of every breach, including minor ones, for a minimum of 24 months
+- Retain records of all breaches for a minimum of 24 months
 
-**CRTC obligations (Canada's telecom regulator):**
-- Report major service outages to the CRTC within 2 hours of discovery
-- Submit a full post-outage report within 30 days of service restoration
-- Any incident affecting 9-1-1 or emergency services is automatically Priority 1
+**CRTC (Canada's telecom regulator):**
+- Notify the CRTC after triage confirms a real major outage,especially where 9-1-1 or emergency services are affected
+- Submit a full post-outage report within 30 days of restoration
 
-**Escalation tiers:**
+**Escalation levels:**
+- P1 – Critical (ransomware, confirmed breach, 9-1-1 outage): immediate escalation
+- P2 – High (suspected unauthorized access, major outage): escalate urgently
+- P3 – Medium (minor anomaly, phishing with no data accessed): report promptly
 
-| Level | Incident Type | Response Target |
-|---|---|---|
-| P1 – Critical | Ransomware, confirmed data breach, 9-1-1 outage | Escalate within 15 minutes |
-| P2 – High | Suspected unauthorized access, major service outage | Escalate within 1 hour |
-| P3 – Medium | Minor system anomaly, phishing attempt (no data accessed) | Report within 4 hours |
+### Referenced Supporting Documents
+To be produced separately:
+- Incident Report Form
+- Incident Response Procedure
+- Breach Notification Template (OPC)
+- Post-Outage Report Template (CRTC)
 
 ---
 
-## GRC Analyst Work: Gap Analysis
-
-Before writing the updated policy, I compared the existing document against current legal and regulatory requirements. Here is what was missing.
+## Gap Analysis
 
 | Gap Identified | Why It Matters |
 |---|---|
-| No PIPEDA breach reporting obligations | Canada's privacy law requires notifying the Privacy Commissioner and affected individuals when a breach poses serious risk of harm. Missing this means automatic non-compliance. |
-| No CRTC outage notification timelines | ISPs must report major outages within 2 hours, especially if 9-1-1 services are affected. No timeline means no accountability. |
-| No breach recordkeeping requirement | PIPEDA requires organizations to retain records of all breaches for a minimum of 24 months, regardless of severity. |
-| No escalation structure | Without defined severity levels, teams have no standard for how fast to respond or who to notify. |
-| No emergency service impact criteria | No explicit coverage of incidents affecting 9-1-1, 9-8-8, TTY/IP Relay, or Wireless Public Alerting. |
+| No PIPEDA breach reporting obligations | Without this, D2D has no legal process for notifying the Privacy Commissioner or affected individuals — automatic non-compliance. |
+| No CRTC outage notification requirement | No requirement means no accountability when emergency services are disrupted. |
+| No breach recordkeeping requirement | PIPEDA requires 24-month retention of all breach records regardless of severity. |
+| No escalation structure | Teams have no standard for how fast to respond or who to notify. |
+| No emergency service impact criteria | No coverage of incidents affecting 9-1-1, 9-8-8, TTY/IP Relay, or Wireless Public Alerting. |
+| No referenced supporting documents | A policy referencing forms that do not exist cannot be operationalized. |
 
 ---
 
 ## Compliance Mapping
 
-Linking each policy section to the specific requirement it satisfies — this is what makes a policy audit-ready.
-
-| Policy Section | PIPEDA | NIST CSF |
+| Policy Section | Regulation | Why this section exists |
 |---|---|---|
-| Internal Reporting | Principle 7 — organizations must have safeguards and awareness of breaches | RS.CO-2: Incidents reported per established criteria |
-| Notify Privacy Commissioner | s.10.1 — report breaches posing real risk of significant harm | RS.CO-3: Information shared with appropriate parties |
-| Notify Affected Individuals | s.10.1 — direct notification required | RS.CO-4: Coordination with affected stakeholders |
-| Retain Breach Records | s.10.3 — minimum 24-month retention | RC.CO-1: Recovery communications managed appropriately |
-| CRTC Outage Reporting | Telecom regulatory obligation separate from PIPEDA | RS.CO-2, RC.RP-1: Timely response and recovery execution |
-| Escalation Tiers | Principle 7 — risk-appropriate safeguards | RS.AN-1, RS.MI-1: Incidents investigated and contained |
+| Internal Reporting | PIPEDA | Organizations must know a breach occurred before they can act. Without this, nothing else works. |
+| Notify Privacy Commissioner | PIPEDA | Canadian law requires reporting breaches that could seriously harm individuals. Staying silent is a legal violation. |
+| Notify Affected Individuals | PIPEDA | People whose data was exposed have a right to know so they can protect themselves. |
+| Retain Breach Records | PIPEDA | Every breach must be documented for at least 2 years to support accountability and audits. |
+| CRTC Outage Reporting | CRTC | As a regulated telecom, D2D must report outages affecting emergency services to the regulator. |
+| Escalation Levels | NIST CSF | Not every incident needs the same response. Severity levels ensure the right action happens at the right speed. |
 
 ---
 
 ## Skills Demonstrated
 
-`Policy gap analysis` `Compliance mapping` `PIPEDA` `NIST CSF` `CRTC regulatory requirements`
-`Plain language policy writing` `Incident escalation frameworks` `Audit documentation` `GRC analyst workflow`
+`Policy gap analysis` `Compliance mapping` `PIPEDA` `NIST CSF` `CRTC regulatory requirements` `Plain language policy writing` `Incident escalation frameworks` `Audit documentation` `GRC analyst workflow`
 
 ---
 
