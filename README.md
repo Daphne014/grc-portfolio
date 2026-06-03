@@ -24,6 +24,8 @@ This portfolio is built week by week as I develop practical cybersecurity and GR
 | Week 4 | [BlinkSend: Framework Selection & Business Case](./week-4) | GRC, Compliance & Privacy Law | ✅ Complete |
 | Week 5 | [Policy & Governance: Core Concepts](./week-5-policy-governance/notes.md) | Policy, Procedures & Technical Controls | ✅ Complete |
 | Week 5 | [GRC Project: Incident Reporting Policy Review](./week-5-policy-governance/incident-policy-project.md) | GRC, Compliance & Canadian Privacy Law | ✅ Complete |
+| Week 6 | [Incident Response: Core Concepts](./week-6-incident-response/notes.md) | Incident Response Lifecycle & Classification | ✅ Complete |
+| Week 6 | [Incident Response Plan: Community Food Bank](./week-6-incident-response/incident-response-plan.md) | Incident Response, PIPEDA & Vendor Risk | ✅ Complete |
 
 New projects added weekly as I progress through training.
 
@@ -50,7 +52,6 @@ New projects added weekly as I progress through training.
 | Skills for Success Cybersecurity Program | SCWIST | 🔄 In Progress (Apr–Aug 2026) |
 | Introduction to Cybersecurity | Cisco | ✅ Complete |
 | Certified in Cybersecurity |ICS2 | 🔄 In Progress |
-| CompTIA Security+ | CompTIA | 🔜 Planned |
 
 ---
 
@@ -75,4 +76,4 @@ New projects added weekly as I progress through training.
 
 ---
 
-*Actively maintained. Last updated: May 2026.*
+*Actively maintained. Last updated: June 2026.*
