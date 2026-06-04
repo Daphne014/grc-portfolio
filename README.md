@@ -51,7 +51,7 @@ New projects added weekly as I progress through training.
 |------------|----------|--------|
 | Skills for Success Cybersecurity Program | SCWIST | 🔄 In Progress (Apr–Aug 2026) |
 | Introduction to Cybersecurity | Cisco | ✅ Complete |
-| Certified in Cybersecurity |ICS2 | 🔄 In Progress |
+| Certified in Cybersecurity |ISC2 | 🔄 In Progress |
 
 ---
 
