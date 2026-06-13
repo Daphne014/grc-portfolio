@@ -26,6 +26,9 @@ This portfolio is built week by week as I develop practical cybersecurity and GR
 | Week 5 | [GRC Project: Incident Reporting Policy Review](./week-5-policy-governance/incident-policy-project.md) | GRC, Compliance & Canadian Privacy Law | ✅ Complete |
 | Week 6 | [Incident Response: Core Concepts](./week-6-incident-response/notes.md) | Incident Response Lifecycle & Classification | ✅ Complete |
 | Week 6 | [Incident Response Plan: Community Food Bank](./week-6-incident-response/incident-response-plan.md) | Incident Response, PIPEDA & Vendor Risk | ✅ Complete |
+| Week 7 | [Network Security Fundamentals](./week-7-network-security-fundamentals/notes.md) | Network Controls, Cloud Security & Zero Trust | ✅ Complete |
+| Week 8 | [Application Security: Core Concepts](./week-8-application-security/notes.md) | Application Risk & Compliance | ✅ Complete |
+| Week 8 | [OWASP Top 10 Checklist: Lakeshore Health Technologies](./week-8-application-security/top-10-checklist.md) | Application Security, PHIPA & Privacy Risk | ✅ Complete |
 
 New projects added weekly as I progress through training.
 
@@ -33,15 +36,15 @@ New projects added weekly as I progress through training.
 
 ## 🔧 Skills & Tools
 
-**GRC Frameworks:** NIST CSF 2.0 · ISO/IEC 27001 · PIPEDA · Law 25 (Quebec) · CyberSecure Canada
+**GRC Frameworks:** NIST CSF 2.0 · ISO/IEC 27001 · PIPEDA · PHIPA · Law 25 (Quebec) · CyberSecure Canada · OWASP Top 10
 
-**Risk & Compliance:** Framework selection · Business case writing · Privacy law alignment · Risk identification · Audit documentation
+**Risk & Compliance:** Framework selection · Business case writing · Privacy law alignment · Risk identification · Audit documentation · Application security risk assessment · Third-party risk management
 
 **Data & Analysis:** SQL · Microsoft Excel · Google Sheets
 
 **Documentation:** Policy writing · Audit evidence preparation · Professional report writing · Markdown
 
-**Hands-on Practice:** Cisco Introduction to Cybersecurity · ICS2 Certified in Cybersecurity. TryHackMe
+**Hands-on Practice:** Cisco Introduction to Cybersecurity · ISC2 Certified in Cybersecurity · TryHackMe
 
 ---
 
@@ -51,7 +54,7 @@ New projects added weekly as I progress through training.
 |------------|----------|--------|
 | Skills for Success Cybersecurity Program | SCWIST | 🔄 In Progress (Apr–Aug 2026) |
 | Introduction to Cybersecurity | Cisco | ✅ Complete |
-| Certified in Cybersecurity |ISC2 | 🔄 In Progress |
+| Certified in Cybersecurity | ISC2 | 🔄 In Progress |
 
 ---
 
@@ -60,7 +63,6 @@ New projects added weekly as I progress through training.
 **Industries:** Healthcare · Government Regulation · Telecommunications · Higher Education · Software Development
 
 **Relevant Experience:**
-
 - Compliance and data protection in NHS-regulated healthcare environment (Leeds Teaching Hospitals)
 - Regulatory audit support within a government environmental agency (LASEPA)
 - Policy and process management in large-scale telecoms operations (Teleperformance Canada, Sky UK)
