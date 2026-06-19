@@ -13,7 +13,15 @@ This portfolio is built week by week as I develop practical cybersecurity and GR
 
 ---
 
-## 🗂️ Portfolio Projects
+## 📁 Case Studies
+
+| Project | Focus | Status |
+|---|---|---|
+| [Ontario Health Privacy Breach Analysis](./lakeshore-phipa-case-study) | PHIPA Decision 266, Compliance Failure Analysis, PIA | ✅ Complete |
+
+---
+
+## 🗂️ SCWIST Program Deliverables
 
 | Week | Project | Focus Area | Status |
 |------|---------|------------|--------|
@@ -30,7 +38,7 @@ This portfolio is built week by week as I develop practical cybersecurity and GR
 | Week 8 | [Application Security: Core Concepts](./week-8-application-security/notes.md) | Application Risk & Compliance | ✅ Complete |
 | Week 8 | [OWASP Top 10 Checklist: Lakeshore Health Technologies](./week-8-application-security/top-10-checklist.md) | Application Security, PHIPA & Privacy Risk | ✅ Complete |
 
-New projects added weekly as I progress through training.
+New deliverables added weekly as I progress through training.
 
 ---
 
@@ -52,8 +60,8 @@ New projects added weekly as I progress through training.
 
 | Credential | Provider | Status |
 |------------|----------|--------|
-| Skills for Success Cybersecurity Program | SCWIST | 🔄 In Progress (Apr–Aug 2026) |
 | Introduction to Cybersecurity | Cisco | ✅ Complete |
+| Skills for Success Cybersecurity Program | SCWIST | 🔄 In Progress (Apr–Aug 2026) |
 | Certified in Cybersecurity | ISC2 | 🔄 In Progress |
 
 ---
@@ -74,7 +82,7 @@ New projects added weekly as I progress through training.
 
 - **LinkedIn:** [linkedin.com/in/daphne-obadan](https://www.linkedin.com/in/daphne-obadan)
 - **Location:** Toronto, Ontario, Canada
-- **Open to:** GRC Analyst · Compliance Analyst · Privacy Analyst · IT Security Analyst · Junior Risk Analyst
+- **Open to:** GRC Analyst · Compliance Analyst · Privacy Analyst · Junior Risk Analyst
 
 ---
 
