@@ -1,89 +1,88 @@
-# 🛡️ Cybersecurity & GRC Portfolio — Daphne Obadan
-**Cybersecurity & GRC | Compliance, Risk & Data | SCWIST Cybersecurity Scholar 2026**
+# Governance, Risk & Compliance (GRC) Portfolio
 
----
+Building practical cybersecurity governance, privacy, and compliance solutions through case studies, risk assessments, policy development, and framework implementation.
 
-## About This Portfolio
+**Daphne Obadan**
+Compliance Professional | Aspiring GRC Analyst | SCWIST Cybersecurity Scholar 2026
 
-I am a compliance and risk professional transitioning into cybersecurity, currently completing the SCWIST Skills for Success Cybersecurity Program (April–August 2026) on a scholarship.
+## Why This Portfolio?
 
-My background spans 7+ years across healthcare (NHS), government regulation, telecommunications, and software development, with hands-on experience in compliance documentation, audit support, policy management, and data handling in regulated environments.
+Rather than focusing on offensive security or technical exploitation, this portfolio shows how cybersecurity supports business objectives through governance, compliance, risk management, privacy, and policy.
 
-This portfolio is built week by week as I develop practical cybersecurity and GRC skills. Each entry reflects real learning applied to realistic scenarios.
+## About
 
----
+I build practical cybersecurity governance and compliance solutions that help organizations understand risk, meet regulatory obligations, and strengthen security maturity.
+
+My experience spans healthcare, government regulation, telecommunications, and compliance operations, with hands-on work in documentation, audit readiness, policy implementation, and data governance in regulated environments. Through the SCWIST Cybersecurity Program, I'm expanding that foundation into privacy, incident response, framework selection, control mapping, and AI governance.
+
+Portfolio includes: 15+ practical cybersecurity projects, 2 healthcare privacy case studies, 1 executive capstone presentation, and risk assessments mapped to NIST CSF, ISO 27001, CyberSecure Canada, and Canadian privacy legislation.
+
+## ⭐ Featured Projects
+
+**BlinkSend Executive Capstone** — Risk-based framework recommendation for a Canadian fintech startup, with a NIST CSF → CyberSecure Canada → ISO 27001 roadmap and business case.
+
+**PHIPA Compliance Investigation** — Root cause analysis, Privacy Impact Assessment, regulatory recommendations.
+
+**Incident Response Plan** — PIPEDA-aligned vendor breach response and communication plan.
+
+**Control Mapping Matrix** — Framework alignment and gap analysis.
 
 ## 📁 Case Studies
 
 | Project | Focus | Status |
 |---|---|---|
-| [Ontario Health Privacy Breach Analysis](./lakeshore-phipa-case-study) | PHIPA Decision 266, Compliance Failure Analysis, PIA | ✅ Complete |
-
----
+| [Lakeshore Health Technologies PHIPA Case Study](./lakeshore-phipa-case-study) | PHIPA Decision 266, Compliance Failure Analysis, PIA | ✅ Complete |
 
 ## 🗂️ SCWIST Program Deliverables
 
 | Week | Project | Focus Area | Status |
-|------|---------|------------|--------|
-| Week 1 | [CIA Triad Analysis: NASA Phishing Incident](./week-1-cia-triad/week1-cia-triad-analysis.md) | Security Fundamentals | ✅ Complete |
-| Week 1 | [Career Path Reflection: Where Do I Fit?](./week-1-cia-triad/week1-where-do-i-fit.md) | GRC & Policy | ✅ Complete |
-| Week 2 | [Cyber Safety Checklist: Personal & Workplace](./week-2-cyber-safety-checklist/notes.md) | Security Awareness | ✅ Complete |
-| Week 3 | [Threat Identification & Social Engineering in Practice](./week-3-threat-identification/notes.md) | Threat Analysis & SOC Roles | ✅ Complete |
-| Week 4 | [BlinkSend: Framework Selection & Business Case](./week-4-compliance-framework/BlinkSend-Business-Case.md) | GRC, Compliance & Privacy Law | ✅ Complete |
-| Week 5 | [Policy & Governance: Core Concepts](./week-5-policy-governance/notes.md) | Policy, Procedures & Technical Controls | ✅ Complete |
-| Week 5 | [GRC Project: Incident Reporting Policy Review](./week-5-policy-governance/incident-policy-project.md) | GRC, Compliance & Canadian Privacy Law | ✅ Complete |
-| Week 6 | [Incident Response: Core Concepts](./week-6-incident-response/notes.md) | Incident Response Lifecycle & Classification | ✅ Complete |
-| Week 6 | [Incident Response Plan: Community Food Bank](./week-6-incident-response/incident-response-plan.md) | Incident Response, PIPEDA & Vendor Risk | ✅ Complete |
-| Week 7 | [Network Security Fundamentals](./week-7-network-security-fundamentals/notes.md) | Network Controls, Cloud Security & Zero Trust | ✅ Complete |
-| Week 8 | [Application Security: Core Concepts](./week-8-application-security/notes.md) | Application Risk & Compliance | ✅ Complete |
-| Week 8 | [OWASP Top 10 Checklist: Lakeshore Health Technologies](./week-8-application-security/top-10-checklist.md) | Application Security, PHIPA & Privacy Risk | ✅ Complete |
+|---|---|---|---|
+| Week 1 | [CIA Triad Analysis: NASA Phishing Incident](./week-1-cia-triad) | Security Fundamentals | ✅ Complete |
+| Week 2 | [Cyber Safety Checklist: Personal & Workplace](./week-2-cyber-safety-checklist) | Security Awareness | ✅ Complete |
+| Week 3 | [Threat Identification & Social Engineering in Practice](./week-3-threat-identification) | Threat Analysis & SOC Roles | ✅ Complete |
+| Week 4 | [BlinkSend: Framework Selection & Business Case](./week-4-compliance-framework) | GRC, Compliance & Privacy Law | ✅ Complete |
+| Week 5 | GRC Project: Incident Reporting Policy Review | GRC, Compliance & Canadian Privacy Law | ✅ Complete |
+| Week 6 | Incident Response Plan: Community Food Bank | Incident Response, PIPEDA & Vendor Risk | ✅ Complete |
+| Week 7 | [Network Security Fundamentals](./week-7-network-security-fundamentals) | Network Controls, Cloud Security & Zero Trust | ✅ Complete |
+| Week 8 | OWASP Top 10 Checklist: Lakeshore Health Technologies | Application Security, PHIPA & Privacy Risk | ✅ Complete |
+| Week 9 | [Access Control & Cloud Security Checklist](./week-9-access-control) | Access Control, Cloud Security | ✅ Complete |
+| Week 10 | [Security Operations & Incident Interpretation](./week-10-security-operations) | Security Operations, SOC Analysis | ✅ Complete |
+| Week 11 | [Control Mapping: GRC Matrix](./Week-11-control-mapping) | Control Mapping, Framework Alignment | ✅ Complete |
+| Week 12 | [AI Governance & Responsible AI Use](./week-12-AI-Governance) | AI Governance, Responsible AI Use | ✅ Complete |
+| Week 13 | Capstone: Selecting the Right Cybersecurity Framework (BlinkSend) | Framework Selection, Business Case, Executive Presentation | ✅ Complete |
 
 New deliverables added weekly as I progress through training.
 
----
+## 🔧 Skills
 
-## 🔧 Skills & Tools
-
-**GRC Frameworks:** NIST CSF 2.0 · ISO/IEC 27001 · PIPEDA · PHIPA · Law 25 (Quebec) · CyberSecure Canada · OWASP Top 10
-
-**Risk & Compliance:** Framework selection · Business case writing · Privacy law alignment · Risk identification · Audit documentation · Application security risk assessment · Third-party risk management
-
-**Data & Analysis:** SQL · Microsoft Excel · Google Sheets
-
-**Documentation:** Policy writing · Audit evidence preparation · Professional report writing · Markdown
-
-**Hands-on Practice:** Cisco Introduction to Cybersecurity · ISC2 Certified in Cybersecurity · TryHackMe
-
----
+| Category | Skills |
+|---|---|
+| Governance & Compliance | NIST CSF 2.0, ISO/IEC 27001, CyberSecure Canada |
+| Privacy | PHIPA, PIPEDA, Law 25 (Quebec) |
+| Risk Management | Risk Assessment, Control Mapping, Third-Party Risk, Incident Response |
+| Documentation | Policy Writing, Business Cases, Executive Reporting |
+| Tools | Excel, SQL, Google Sheets, Markdown, Git/GitHub |
+| Labs | Cisco Introduction to Cybersecurity, ISC2 Certified in Cybersecurity |
 
 ## 📋 Training & Certifications
 
 | Credential | Provider | Status |
-|------------|----------|--------|
+|---|---|---|
 | Introduction to Cybersecurity | Cisco | ✅ Complete |
 | Skills for Success Cybersecurity Program | SCWIST | 🔄 In Progress (Apr–Aug 2026) |
 | Certified in Cybersecurity | ISC2 | 🔄 In Progress |
 
----
-
 ## 🏢 Professional Background
 
-**Industries:** Healthcare · Government Regulation · Telecommunications · Higher Education · Software Development
+Before specializing in cybersecurity governance, I built experience across healthcare, environmental regulation, telecommunications, and compliance operations (Leeds Teaching Hospitals, LASEPA, Teleperformance Canada, Sky UK). Working in regulated environments gave me first-hand exposure to audit readiness, documentation controls, privacy obligations, and operational risk, experience that now informs my approach to cybersecurity governance.
 
-**Relevant Experience:**
-- Compliance and data protection in NHS-regulated healthcare environment (Leeds Teaching Hospitals)
-- Regulatory audit support within a government environmental agency (LASEPA)
-- Policy and process management in large-scale telecoms operations (Teleperformance Canada, Sky UK)
-- Software development exposure through placement at Sky UK, Leeds (2025)
+## 🎯 Currently Seeking
 
----
+Governance, Risk & Compliance (GRC) · Privacy & Data Protection · Compliance · Cyber Risk · Information Security Governance
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/daphne-obadan](https://www.linkedin.com/in/daphne-obadan)
-- **Location:** Toronto, Ontario, Canada
-- **Open to:** GRC Analyst · Compliance Analyst · Privacy Analyst · Junior Risk Analyst
+LinkedIn: linkedin.com/in/daphne-obadan
+Location: Toronto, Ontario, Canada
 
----
-
-*Actively maintained. Last updated: June 2026.*
+This portfolio continues to evolve as I deepen my expertise in governance, risk, privacy, and cybersecurity. Feedback, collaboration, and professional connections are always welcome.
