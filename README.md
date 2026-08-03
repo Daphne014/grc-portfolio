@@ -15,7 +15,7 @@ I build practical cybersecurity governance and compliance solutions that help or
 
 My experience spans healthcare, government regulation, telecommunications, and compliance operations, with hands-on work in documentation, audit readiness, policy implementation, and data governance in regulated environments. Through the SCWIST Cybersecurity Program, I'm expanding that foundation into privacy, incident response, framework selection, control mapping, and AI governance.
 
-Portfolio includes: 15+ practical cybersecurity projects, 2 healthcare privacy case studies, 1 executive capstone presentation, and risk assessments mapped to NIST CSF, ISO 27001, CyberSecure Canada, and Canadian privacy legislation.
+Portfolio includes: 12+ practical cybersecurity projects, 2 healthcare privacy case studies, 1 executive capstone presentation, and risk assessments mapped to NIST CSF, ISO 27001, CyberSecure Canada, and Canadian privacy legislation.
 
 ## ⭐ Featured Projects
 
@@ -41,10 +41,10 @@ Portfolio includes: 15+ practical cybersecurity projects, 2 healthcare privacy c
 | Week 2 | [Cyber Safety Checklist: Personal & Workplace](./week-2-cyber-safety-checklist) | Security Awareness | ✅ Complete |
 | Week 3 | [Threat Identification & Social Engineering in Practice](./week-3-threat-identification) | Threat Analysis & SOC Roles | ✅ Complete |
 | Week 4 | [BlinkSend: Framework Selection & Business Case](./week-4-compliance-framework) | GRC, Compliance & Privacy Law | ✅ Complete |
-| Week 5 | GRC Project: Incident Reporting Policy Review | GRC, Compliance & Canadian Privacy Law | ✅ Complete |
-| Week 6 | Incident Response Plan: Community Food Bank | Incident Response, PIPEDA & Vendor Risk | ✅ Complete |
+| Week 5 | [GRC Project: Incident Reporting Policy Review](./week-5-policy-governance) | GRC, Compliance & Canadian Privacy Law | ✅ Complete |
+| Week 6 | [Incident Response Plan: Community Food Bank](./week-6-incident-response) | Incident Response, PIPEDA & Vendor Risk | ✅ Complete |
 | Week 7 | [Network Security Fundamentals](./week-7-network-security-fundamentals) | Network Controls, Cloud Security & Zero Trust | ✅ Complete |
-| Week 8 | OWASP Top 10 Checklist: Lakeshore Health Technologies | Application Security, PHIPA & Privacy Risk | ✅ Complete |
+| Week 8 | [OWASP Top 10 Checklist: Lakeshore Health Technologies](./week-8-application-security) | Application Security, PHIPA & Privacy Risk | ✅ Complete |
 | Week 9 | [Access Control & Cloud Security Checklist](./week-9-access-control) | Access Control, Cloud Security | ✅ Complete |
 | Week 10 | [Security Operations & Incident Interpretation](./week-10-security-operations) | Security Operations, SOC Analysis | ✅ Complete |
 | Week 11 | [Control Mapping: GRC Matrix](./Week-11-control-mapping) | Control Mapping, Framework Alignment | ✅ Complete |
